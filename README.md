@@ -3,7 +3,7 @@
 
 To view this Github Pages site please visit...
 
-#### [leanrob.github.io](leanrob.github.io)
+#### [leanrob.github.io](http://leanrob.github.io)
 
 ## What is this repository
 
