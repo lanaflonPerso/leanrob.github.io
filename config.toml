@@ -8,6 +8,7 @@ themesDir = "themes"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXX-Y"
 
+
 [params]
 
   # Images settings
