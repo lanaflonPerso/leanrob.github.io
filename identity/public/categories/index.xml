@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Identity Theme</title>
-    <link>http://example.org/categories/</link>
+    <link>https://leanrob.github.io/identity/categories/</link>
     <description>Recent content in Categories on Hugo Identity Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://leanrob.github.io/identity/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
