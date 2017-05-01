@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org" #without ending slash
+baseurl = "https://leanrob.github.io/identity" #without ending slash
 languageCode = "en-us"
 title = "Hugo Identity Theme"
 theme = "hugo-identity-theme"
